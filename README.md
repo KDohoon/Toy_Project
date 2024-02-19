@@ -9,5 +9,6 @@
 - HQ Laptop Computer
 - QA Books
 - Office Room Furniture
-- Medieval Town Exteriors
+- Medieval Town Exteriors (Log 하나 씀)
 - High Quality Bricks & Walls
+- Apartment Kit
