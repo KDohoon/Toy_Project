@@ -11,6 +11,8 @@
 - Office Room Furniture
 - Medieval Town Exteriors
 - High Quality Bricks & Walls
+- Apartment Kit
+- Water Cooler (Mobile)
 
 ### 도훈
 - Water Float
