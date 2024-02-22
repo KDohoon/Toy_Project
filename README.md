@@ -24,3 +24,6 @@
 - Big Furniture Pack
 - Pack Gesta Furniture #1
 - Office Room Furniture
+
+일주일간 진행한 프로젝트 과정
+https://www.notion.so/be955211391446928ed78de3a7255a94?pvs=4
